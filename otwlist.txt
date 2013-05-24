@@ -1,4 +1,5 @@
 ; Summary: Proxy Switchy! Rule List
+; Author : Amio (amio.cn@gmail.com)
 ; Website: http://github.com/amio/otwlist
 
 #BEGIN
