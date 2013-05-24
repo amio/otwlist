@@ -5,7 +5,7 @@
 
 [regexp]
 (youtube|ytimg)\.
-(facebook|twitter|vimeo)\.
+(facebook|twitter)\.
 (t\.co\/|bit\.ly)
 (git-scm)
 
