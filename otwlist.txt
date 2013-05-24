@@ -5,9 +5,9 @@
 #BEGIN
 
 [regexp]
-(youtube|ytimg)\.
+(youtube|ytimg|youtu.be)\.
 (facebook|twitter)\.
 (t\.co\/|bit\.ly)
-(git-scm)
+(git-scm|feedburner)\.
 
 #END
