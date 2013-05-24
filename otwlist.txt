@@ -1,0 +1,12 @@
+; Summary: Proxy Switchy! Rule List
+; Website: http://github.com/amio/otwlist
+
+#BEGIN
+
+[regexp]
+(youtube|ytimg)\.
+(facebook|twitter|vimeo)\.
+(t\.co\/|bit\.ly)
+(git-scm)
+
+#END
