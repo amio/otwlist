@@ -7,7 +7,7 @@
 [regexp]
 (groups\.google|youtube|ytimg|youtu.be)\.
 (facebook|twitter)\.
-(t\.co\/|bit\.ly)
+(t\.co\/|bit\.ly|wordpress\.com)
 (git-scm|feedburner)\.
 
 #END
