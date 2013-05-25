@@ -5,7 +5,7 @@
 #BEGIN
 
 [regexp]
-(groups\.google|youtube|ytimg|youtu.be|blogspot)\.
+(groups\.google|youtube|ytimg|youtu.be|blogspot|blogger)\.
 (facebook|twitter)\.
 (t\.co\/|bit\.ly|wordpress\.com)
 (git-scm|feedburner)\.
