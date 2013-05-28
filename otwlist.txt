@@ -6,7 +6,7 @@
 
 [regexp]
 (groups\.google|youtube|ytimg|blogspot|blogger)\.
-(facebook|twitter|dl\.dropbox)\.
+(facebook|twitter|dl\.dropbox|av\.vimeo)\.
 (t\.co\/|bit\.ly|wordpress\.com|youtu\.be)
 (git-scm|feedburner)\.
 
