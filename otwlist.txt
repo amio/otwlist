@@ -8,7 +8,7 @@
 (plus\.google|groups\.google|drive\.google|docs\.google|youtube|ytimg|blogspot|blogger)\.
 (facebook|twitter|dl\.dropbox|av\.vimeo|thepiratebay)\.
 (cloudfront)\.
-(t\.co\/|bit\.ly|wordpress\.com|youtu\.be)
+(t\.co\/|bit\.ly|ow\.ly|wordpress\.com|youtu\.be)
 (git-scm|feedburner)\.
 
 #END
