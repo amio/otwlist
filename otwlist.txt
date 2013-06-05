@@ -7,7 +7,7 @@
 [regexp]
 (plus\.google|groups\.google|drive\.google|docs\.google|mail\.google|youtube|ytimg|blogspot|blogger|feedproxy|appspot)\.
 (facebook|twitter|dl\.dropbox|av\.vimeo|thepiratebay)\.
-(cloudfront|uploaded|nytimes)\.
+(cloudfront|uploaded|nytimes|wikipedia)\.
 (t\.co\/|bit\.ly|ow\.ly|j\.mp|wordpress\.com|youtu\.be)
 (git-scm|feedburner)\.
 
