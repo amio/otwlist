@@ -6,7 +6,7 @@
 
 [regexp]
 (plus\.google|groups\.google|drive\.google|docs\.google|mail\.google|youtube|ytimg|blogspot|blogger|feedproxy|appspot)\.
-(facebook|fbcdn|twitter|dl\.dropbox|av\.vimeo|thepiratebay|pinimg)\.
+(facebook|fbcdn|twitter|dl\.dropbox|vimeo|thepiratebay|pinimg)\.
 (cloudfront|uploaded|nytimes|wikipedia|wikimedia|imgur)\.
 (t\.co\/|bit\.ly|ow\.ly|j\.mp|wordpress\.com|youtu\.be)
 (git-scm|feedburner|sstatic)\.
