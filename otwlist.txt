@@ -9,6 +9,6 @@
 (facebook|fbcdn|twitter|dl\.dropbox|vimeo|vimeocdn|thepiratebay|pinimg)\.
 (cloudfront|uploaded|nytimes|bbc\.co|wikipedia|wikimedia|imgur|mobile01)\.
 (t\.co\/|bit\.ly|ow\.ly|j\.mp|wordpress\.com|youtu\.be|cl\.man\.lv)
-(git-scm|ssl|digg|feedburner|feedly|sstatic|slideshare)\.
+(git-scm|ssl|cloudfront|digg|feedburner|feedly|sstatic|slideshare)\.
 
 #END
