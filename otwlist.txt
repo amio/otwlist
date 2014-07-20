@@ -8,7 +8,8 @@
 (plus\.google|groups\.google|drive\.google|docs\.google|mail\.google|youtube|googlevideo|ytimg|blogspot|blogger|feedproxy|appspot)\.
 (facebook|fbcdn|twitter|dl\.dropbox|vimeo|vimeocdn|thepiratebay|pinimg)\.
 (cloudfront|uploaded|nytimes|bbc\.co|wikipedia|wikimedia|imgur|mobile01)\.
-(t\.co\/|bit\.ly|ow\.ly|j\.mp|wordpress\.com|youtu\.be|cl\.man\.lv)
 (ssl|digg|feedburner|feedly|sstatic|slideshare)\.
+(t\.co\/|bit\.ly|ow\.ly|j\.mp|wordpress\.com|youtu\.be|cl\.man\.lv)
+(turbobit\.net|bitshare\.com)
 
 #END
